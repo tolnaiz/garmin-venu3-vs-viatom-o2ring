@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-Garmin data can be exported from https://connect.garmin.com/ using the endpoint:
+Garmin data can be extracted from https://connect.garmin.com/ using the endpoint:
 https://connect.garmin.com/sleep-service/sleep/dailySleepData?date=2025-03-07&nonSleepBufferMinutes=60
 
 

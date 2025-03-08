@@ -62,3 +62,9 @@ The visualization includes:
 
 - Merged CSV file with synchronized 1-minute resolution data
 - Optional PNG visualization file
+
+## Example Visualization
+
+Below is an example output showing the comparison between Garmin Venu 3 and O2Ring measurements over a night's sleep:
+
+![Example Visualization](2025-03-07/Figure_1.png)

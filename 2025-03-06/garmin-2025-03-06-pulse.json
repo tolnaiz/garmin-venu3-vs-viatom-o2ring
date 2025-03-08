@@ -1,0 +1,706 @@
+[
+  {
+    "value": 63,
+    "startGMT": 1741305840000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741305960000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741306080000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741306200000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741306320000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741306440000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741306560000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741306680000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741306800000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741306920000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741307040000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741307160000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741307280000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741307400000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741307520000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741307640000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741307760000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741307880000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741308000000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741308120000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741308240000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741308360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741308480000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741308600000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741308720000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741308840000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741308960000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741309080000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741309200000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741309320000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741309440000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741309560000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741309680000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741309800000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741309920000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741310040000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741310160000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741310280000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741310400000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741310520000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741310640000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741310760000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741310880000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741311000000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741311120000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741311240000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741311360000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741311480000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741311600000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741311720000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741311840000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741311960000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741312080000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741312200000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741312320000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741312440000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741312560000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741312680000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741312800000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741312920000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741313040000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741313160000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741313280000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741313400000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741313520000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741313640000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741313760000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741313880000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741314000000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314120000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314240000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314360000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741314480000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314600000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741314720000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314840000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741314960000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741315080000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741315200000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741315320000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741315440000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741315560000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741315680000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741315800000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741315920000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741316040000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741316160000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741316280000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741316400000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741316520000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741316640000
+  },
+  {
+    "value": 54,
+    "startGMT": 1741316760000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741316880000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741317000000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741317120000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741317240000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741317360000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741317480000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741317600000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741317720000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741317840000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741317960000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741318080000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741318200000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741318320000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741318440000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741318560000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741318680000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741318800000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741318920000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741319040000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741319160000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741319280000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741319400000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741319520000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741319640000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741319760000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741319880000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741320000000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741320120000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741320240000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741320360000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741320480000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741320600000
+  },
+  {
+    "value": 55,
+    "startGMT": 1741320720000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741320840000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741320960000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741321080000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741321200000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741321320000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741321440000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741321560000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741321680000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741321800000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741321920000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741322040000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741322160000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741322280000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741322400000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741322520000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741322640000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741322760000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741322880000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741323000000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741323120000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741323240000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741323360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741323480000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741323600000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741323720000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741323840000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741323960000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741324080000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741324200000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741324320000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741324440000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741324560000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741324680000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741324800000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741324920000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741325040000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741325160000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741325280000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741325400000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741325520000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741325640000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741325760000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741325880000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741326000000
+  },
+  {
+    "value": 56,
+    "startGMT": 1741326120000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741326240000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741326360000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741326480000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741326600000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741326720000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741326840000
+  }
+]

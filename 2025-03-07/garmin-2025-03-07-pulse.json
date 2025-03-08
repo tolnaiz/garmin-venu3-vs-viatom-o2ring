@@ -1,0 +1,886 @@
+[
+  {
+    "value": 64,
+    "startGMT": 1741387920000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741388040000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741388160000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741388280000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741388400000
+  },
+  {
+    "value": 57,
+    "startGMT": 1741388520000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741388640000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741388760000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741388880000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741389000000
+  },
+  {
+    "value": 58,
+    "startGMT": 1741389120000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741389240000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741389360000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741389480000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741389600000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741389720000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741389840000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741389960000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741390080000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741390200000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741390320000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741390440000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741390560000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741390680000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741390800000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741390920000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741391040000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741391160000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741391280000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741391400000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741391520000
+  },
+  {
+    "value": 71,
+    "startGMT": 1741391640000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741391760000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741391880000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741392000000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741392120000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741392240000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741392360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741392480000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741392600000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741392720000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741392840000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741392960000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741393080000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741393200000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741393320000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741393440000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741393560000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741393680000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741393800000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741393920000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741394040000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741394160000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741394280000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741394400000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741394520000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741394640000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741394760000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741394880000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741395000000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741395120000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741395240000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741395360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741395480000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741395600000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741395720000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741395840000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741395960000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741396080000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741396200000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741396320000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741396440000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741396560000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741396680000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741396800000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741396920000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741397040000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741397160000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741397280000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741397400000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741397520000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741397640000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741397760000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741397880000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741398000000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741398120000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741398240000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741398360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741398480000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741398600000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741398720000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741398840000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741398960000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741399080000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741399200000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741399320000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741399440000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741399560000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741399680000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741399800000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741399920000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741400040000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741400160000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741400280000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741400400000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741400520000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741400640000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741400760000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741400880000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401000000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741401120000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401240000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401360000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401480000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401600000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401720000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401840000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741401960000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741402080000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741402200000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741402320000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741402440000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741402560000
+  },
+  {
+    "value": 73,
+    "startGMT": 1741402680000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741402800000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741402920000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741403040000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741403160000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741403280000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741403400000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741403520000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741403640000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741403760000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741403880000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741404000000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741404120000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741404240000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741404360000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741404480000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741404600000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741404720000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741404840000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741404960000
+  },
+  {
+    "value": 73,
+    "startGMT": 1741405080000
+  },
+  {
+    "value": 75,
+    "startGMT": 1741405200000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741405320000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741405440000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741405560000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741405680000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741405800000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741405920000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741406040000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741406160000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741406280000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741406400000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741406520000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741406640000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741406760000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741406880000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741407000000
+  },
+  {
+    "value": 66,
+    "startGMT": 1741407120000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741407240000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741407360000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741407480000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741407600000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741407720000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741407840000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741407960000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741408080000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741408200000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741408320000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741408440000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741408560000
+  },
+  {
+    "value": 73,
+    "startGMT": 1741408680000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741408800000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741408920000
+  },
+  {
+    "value": 72,
+    "startGMT": 1741409040000
+  },
+  {
+    "value": 73,
+    "startGMT": 1741409160000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741409280000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741409400000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741409520000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741409640000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741409760000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741409880000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741410000000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741410120000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741410240000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741410360000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741410480000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741410600000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741410720000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741410840000
+  },
+  {
+    "value": 68,
+    "startGMT": 1741410960000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741411080000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741411200000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741411320000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741411440000
+  },
+  {
+    "value": 70,
+    "startGMT": 1741411560000
+  },
+  {
+    "value": 71,
+    "startGMT": 1741411680000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741411800000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741411920000
+  },
+  {
+    "value": 62,
+    "startGMT": 1741412040000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741412160000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741412280000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741412400000
+  },
+  {
+    "value": 61,
+    "startGMT": 1741412520000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741412640000
+  },
+  {
+    "value": 59,
+    "startGMT": 1741412760000
+  },
+  {
+    "value": 60,
+    "startGMT": 1741412880000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741413000000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741413120000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741413240000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741413360000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741413480000
+  },
+  {
+    "value": 67,
+    "startGMT": 1741413600000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741413720000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741413840000
+  },
+  {
+    "value": 63,
+    "startGMT": 1741413960000
+  },
+  {
+    "value": 64,
+    "startGMT": 1741414080000
+  },
+  {
+    "value": 65,
+    "startGMT": 1741414200000
+  },
+  {
+    "value": 69,
+    "startGMT": 1741414320000
+  }
+]

@@ -1,6 +1,6 @@
 # Garmin vs O2Ring Data Comparison
 
-This is my little python project made with Cursor AI to compare SPO2 and heart rate data between my Garmin Venu 3 and Viatom O2Ring device.
+This is my little vibe coding python project made with Cursor AI to compare SPO2 and heart rate data between my Garmin Venu 3 and Viatom O2Ring device.
 It includes scripts for parsing the raw data files and creating visualizations for analysis.
 
 
